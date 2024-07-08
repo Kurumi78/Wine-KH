@@ -13,7 +13,7 @@ Installation:
 Move the wine-kh-8-26-x86_64 folder into one of the following directories.
 
 LUTRIS: ~/.local/share/lutris/runners/wine/
-STEAM(Desktop):  ~/.local/share/Steam/compatibilitytools.d/
+STEAM:  ~/.local/share/Steam/compatibilitytools.d/
 HEROIC: ~/.config/heroic/tools/wine/
 
 
